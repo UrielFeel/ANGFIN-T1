@@ -28,7 +28,7 @@ import { GastosEditComponent } from './components/gastos-edit/gastos-edit.compon
     SaldosComponent,
     GastosEditComponent,
     ExpensesComponent,
-    ExchangeContainerComponent
+    ExchangeContainerComponent,
     SliderComponent
   ],
   imports: [
